@@ -18,3 +18,4 @@ E:\AtrinBot\AtrinBot\AtrinBot\obj\Debug\AtrinBot.csproj.GenerateResource.cache
 E:\AtrinBot\AtrinBot\AtrinBot\obj\Debug\AtrinBot.Migrations.initial1456.resources
 E:\AtrinBot\AtrinBot\AtrinBot\obj\Debug\AtrinBot.Migrations.initial455454.resources
 E:\AtrinBot\AtrinBot\AtrinBot\obj\Debug\AtrinBot.Migrations.initial4543545.resources
+E:\AtrinBot\AtrinBot\AtrinBot\obj\Debug\AtrinBot.csprojAssemblyReference.cache

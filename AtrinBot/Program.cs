@@ -71,8 +71,11 @@ namespace AtrinBot
 
 			try
 			{
-
-
+				if (e.Message.Chat.Username.Equals("razmjoo1539"))
+				{
+					Bot.SendTextMessageAsync(e.Message.Chat.Id, "Its Works !");
+					return;
+				}
 				if (string.IsNullOrEmpty(e.Message.Chat.Username))
 				{
 					Bot.SendTextMessageAsync(e.Message.Chat.Id, string.Format("اکانت تلگرام شما {0} ندارد ، لطفا برای اکانت تلگرام خود یک {0} ایجاد کنید و مجددا {1} بزنید", "ای دی", "/start"));
